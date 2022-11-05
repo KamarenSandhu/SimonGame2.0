@@ -5,13 +5,13 @@ body {
 
 p {
   font-size: 1rem;
-  font-family: cursive;
+  font-family: sans-serif;
   color: #FEF2BF;
   text-align: center; 
 }
 
 #level-title {
-  font-family: 'Press Start 2P', cursive;
+  font-family: 'Press Start 2P', sans-serif;
   font-size: 2rem;
   margin:  2% 5%;
   color: #FEF2BF;
@@ -61,7 +61,7 @@ p {
 @media screen and (max-width: 900px) {
   p {
   font-size: 1rem;
-  font-family: cursive;
+  font-family: sans-serif;
   color: #FEF2BF;
   text-align: center;
   }
@@ -78,7 +78,7 @@ p {
 @media screen and (max-width: 725px) {
   p {
   font-size: 1rem;
-  font-family: cursive;
+  font-family: sans-serif;
   color: #FEF2BF;
   text-align: center;
   }
@@ -95,7 +95,7 @@ p {
 @media screen and (max-width: 610px) {
   p {
   font-size: 1rem;
-  font-family: cursive;
+  font-family: sans-serif;
   color: #FEF2BF;
   text-align: center;
   }
